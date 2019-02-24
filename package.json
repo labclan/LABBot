@@ -1,0 +1,8 @@
+{
+	"name": "Lab-Bot",
+	"version": "0.0.1",
+	"description": "Moderator Bot for LAB Clan",
+	"main": "bot.js",
+	"author": "Dusty & Zyflex",
+	"dependencies": {}
+}
